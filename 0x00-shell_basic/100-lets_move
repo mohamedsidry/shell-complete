@@ -1,0 +1,3 @@
+#! /bin/bash
+mv [[:upper:]]* /tmp/u
+# move all files start with uppercase to /tmp/u .
