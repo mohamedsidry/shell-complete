@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -ampv
+# list all files and folders sipareted by commas and / after dir and natural sort
