@@ -1,0 +1,3 @@
+#! /bin/bash
+ls -la
+# display all files nothing to hide !
